@@ -55,7 +55,7 @@ A productivity application for planning and tracking daily work.
 
 ## 📚 What I'm Learning
 
-- Mobile app development
+
 - Advanced React patterns
 - API security and backend architecture
 - Deployment and production systems
@@ -65,7 +65,7 @@ A productivity application for planning and tracking daily work.
 
 ## 🤝 Connect With Me
 
-GitHub: [github.com/your-username](https://github.com/your-username)
-LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
-Email: your.email@example.com
-Portfolio: [your-portfolio-link](https://your-portfolio.com)
+GitHub: [github.com/your-username](https://github.com/sarina-loli)
+LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/sara-getu)
+Email: sarina123getu@example.com
+Portfolio: [your-portfolio-link](https://portofolio-1-0siw.onrender.com)
